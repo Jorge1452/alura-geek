@@ -86,10 +86,12 @@ body {
 }
 
 .cabecera__avatar {
-    background-image: url(../img/cabecera/Avatar.png);
+    background-image: url(../img/cabecera/Retrato.png);
     background-repeat: no-repeat;
     background-position: center;
     padding: 13px 30px 13px 13px;
+    width: 2%;
+    height: auto;
 }
 
 /* MENU LATERAL */
